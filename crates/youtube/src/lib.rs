@@ -8,6 +8,7 @@
 pub mod clients;
 pub mod endpoints;
 pub mod models;
+pub mod resolve;
 pub mod rustypipe_fallback;
 pub mod search;
 pub mod transport;
@@ -29,6 +30,7 @@ pub use models::player::{
     find_format, find_video_format, AudioQuality, Format, PlaybackTracking, PlayerResponse,
     StreamingData,
 };
+pub use resolve::{resolve_stream, resolve_with, ResolveError};
 pub use rustypipe_fallback::{FallbackError, StreamCandidate};
 pub use search::{parse_song_items, search_songs, YoutubeError};
 pub use transport::{cookie_sapisid, generate_cpn, Error, InnerTube, Session};
