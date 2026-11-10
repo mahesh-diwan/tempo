@@ -5,4 +5,13 @@ edition.workspace = true
 license.workspace = true
 
 [dependencies]
-serde = { workspace = true }
+tokio = { workspace = true, features = ["sync"] }
+tracing = { workspace = true }
+thiserror = { workspace = true }
+# libmpv2 is the maintained fork of the abandoned `libmpv` crate.
+libmpv2 = "4"
+libc = "0.2"
+
+[dev-dependencies]
+tokio = { workspace = true, features = ["rt-multi-thread", "macros", "sync", "time"] }
+tempfile = "3"
