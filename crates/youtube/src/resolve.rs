@@ -72,6 +72,16 @@ where
     Err(ResolveError::NoStream { video_id: video_id.to_owned() })
 }
 
+/// Bootstrap the anonymous visitorData once. Without it the direct clients answer
+/// `UNPLAYABLE`/`LOGIN_REQUIRED`.
+async fn ensure_visitor_data(it: &InnerTube) {
+    if it.visitor_data().is_none() {
+        if let Ok(visitor) = it.fetch_visitor_data().await {
+            it.set_visitor_data(Some(visitor));
+        }
+    }
+}
+
 /// Resolve through the direct clients, then fall back to rustypipe for the whole video id.
 pub async fn resolve_stream(
     it: &InnerTube,
@@ -79,6 +89,7 @@ pub async fn resolve_stream(
     video_id: &str,
     quality: AudioQuality,
 ) -> Result<ResolvedStream, ResolveError> {
+    ensure_visitor_data(it).await;
     let fetch = |key: &'static str, id: String| {
         let it = it.clone();
         async move {

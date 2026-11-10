@@ -1,0 +1,516 @@
+{
+  "queries": [
+    "Arijit Singh",
+    "Taylor Swift",
+    "Prateek Kuhad",
+    "lofi hip hop",
+    "Beethoven Moonlight Sonata",
+    "Daft Punk",
+    "Kendrick Lamar",
+    "Anoushka Shankar",
+    "Radiohead",
+    "SPB hits"
+  ],
+  "tracks": [
+    {
+      "query": "Arijit Singh",
+      "video_id": "HwJsSAT6wBg",
+      "title": "PHIR KABHI",
+      "status": "played",
+      "client": "VISIONOS",
+      "itag": 251,
+      "elapsed_ms": 10277,
+      "error": null
+    },
+    {
+      "query": "Arijit Singh",
+      "video_id": "i1o1p_DD6TU",
+      "title": "Gehra Hua (From \"Dhurandhar\")",
+      "status": "played",
+      "client": "VISIONOS",
+      "itag": 251,
+      "elapsed_ms": 10175,
+      "error": null
+    },
+    {
+      "query": "Arijit Singh",
+      "video_id": "-3vUz7QPljM",
+      "title": "DARKHAAST (feat. Sunidhi Chauhan & Arijit Singh)",
+      "status": "played",
+      "client": "VISIONOS",
+      "itag": 251,
+      "elapsed_ms": 12370,
+      "error": null
+    },
+    {
+      "query": "Arijit Singh",
+      "video_id": "FOA9iyxsW_A",
+      "title": "AGAR TUM SAATH HO",
+      "status": "played",
+      "client": "VISIONOS",
+      "itag": 251,
+      "elapsed_ms": 10290,
+      "error": null
+    },
+    {
+      "query": "Arijit Singh",
+      "video_id": "3HlzLiCL9Xs",
+      "title": "Jaan Nisaar (Arijit)",
+      "status": "played",
+      "client": "VISIONOS",
+      "itag": 251,
+      "elapsed_ms": 10232,
+      "error": null
+    },
+    {
+      "query": "Taylor Swift",
+      "video_id": "7nVctvQVz0U",
+      "title": "The Fate of Ophelia",
+      "status": "played",
+      "client": "VISIONOS",
+      "itag": 251,
+      "elapsed_ms": 10471,
+      "error": null
+    },
+    {
+      "query": "Taylor Swift",
+      "video_id": "2VeekpO-JQM",
+      "title": "Gorgeous",
+      "status": "played",
+      "client": "VISIONOS",
+      "itag": 251,
+      "elapsed_ms": 10402,
+      "error": null
+    },
+    {
+      "query": "Taylor Swift",
+      "video_id": "XYK_lHsj7E0",
+      "title": "Safe & Sound (from The Hunger Games Soundtrack) (feat. The Civil Wars)",
+      "status": "played",
+      "client": "VISIONOS",
+      "itag": 251,
+      "elapsed_ms": 10198,
+      "error": null
+    },
+    {
+      "query": "Taylor Swift",
+      "video_id": "CxcEqhy4yKg",
+      "title": "Love Story",
+      "status": "played",
+      "client": "VISIONOS",
+      "itag": 251,
+      "elapsed_ms": 10226,
+      "error": null
+    },
+    {
+      "query": "Taylor Swift",
+      "video_id": "V-uIp-WuD60",
+      "title": "Patient Zero",
+      "status": "played",
+      "client": "VISIONOS",
+      "itag": 251,
+      "elapsed_ms": 10290,
+      "error": null
+    },
+    {
+      "query": "Prateek Kuhad",
+      "video_id": "iAQcOfKO8CM",
+      "title": "Kasoor",
+      "status": "played",
+      "client": "VISIONOS",
+      "itag": 251,
+      "elapsed_ms": 10178,
+      "error": null
+    },
+    {
+      "query": "Prateek Kuhad",
+      "video_id": "6FewJvQDTmA",
+      "title": "Co2",
+      "status": "played",
+      "client": "VISIONOS",
+      "itag": 251,
+      "elapsed_ms": 10230,
+      "error": null
+    },
+    {
+      "query": "Prateek Kuhad",
+      "video_id": "JZnwa4HBysg",
+      "title": "cold/mess",
+      "status": "played",
+      "client": "VISIONOS",
+      "itag": 251,
+      "elapsed_ms": 10223,
+      "error": null
+    },
+    {
+      "query": "Prateek Kuhad",
+      "video_id": "cMOPAD7KrbM",
+      "title": "Tune Kaha",
+      "status": "played",
+      "client": "VISIONOS",
+      "itag": 251,
+      "elapsed_ms": 10239,
+      "error": null
+    },
+    {
+      "query": "Prateek Kuhad",
+      "video_id": "5uBlLI1a_lA",
+      "title": "Aao Chalein",
+      "status": "played",
+      "client": "VISIONOS",
+      "itag": 251,
+      "elapsed_ms": 10251,
+      "error": null
+    },
+    {
+      "query": "lofi hip hop",
+      "video_id": "1N8hOpMqvYs",
+      "title": "Lofi Rain Chill Beats for Sleep, Study & Relax (1 Hour)",
+      "status": "played",
+      "client": "VISIONOS",
+      "itag": 251,
+      "elapsed_ms": 10179,
+      "error": null
+    },
+    {
+      "query": "lofi hip hop",
+      "video_id": "kAw9xGI8vgk",
+      "title": "3 Hours of Chill Lofi Music for DEEP Sleep or Study Session",
+      "status": "played",
+      "client": "VISIONOS",
+      "itag": 251,
+      "elapsed_ms": 10175,
+      "error": null
+    },
+    {
+      "query": "lofi hip hop",
+      "video_id": "iP3IfBeJ3DA",
+      "title": "2 hours - Best of lofi hip hop (beats to chill/relax/study to)",
+      "status": "failed",
+      "client": "VISIONOS",
+      "itag": 251,
+      "elapsed_ms": 10167,
+      "error": "stalled at 8.6s"
+    },
+    {
+      "query": "lofi hip hop",
+      "video_id": "C9PlYpiytFg",
+      "title": "Anime Lofi Hip Hop",
+      "status": "failed",
+      "client": "VISIONOS",
+      "itag": 251,
+      "elapsed_ms": 10227,
+      "error": "stalled at 9.0s"
+    },
+    {
+      "query": "lofi hip hop",
+      "video_id": "suxP321fM5s",
+      "title": "Ultimate Chill Lo-Fi Hip Hop Beat 1 Hour Loop | Study, Relax, and Focus Music",
+      "status": "played",
+      "client": "VISIONOS",
+      "itag": 251,
+      "elapsed_ms": 10479,
+      "error": null
+    },
+    {
+      "query": "Beethoven Moonlight Sonata",
+      "video_id": "NbEfWg8VBho",
+      "title": "Beethoven Moonlight Sonata",
+      "status": "failed",
+      "client": "VISIONOS",
+      "itag": 251,
+      "elapsed_ms": 10171,
+      "error": "stalled at 8.9s"
+    },
+    {
+      "query": "Beethoven Moonlight Sonata",
+      "video_id": "UUDw2kH9SGg",
+      "title": "Moonlight Sonata",
+      "status": "played",
+      "client": "VISIONOS",
+      "itag": 251,
+      "elapsed_ms": 10277,
+      "error": null
+    },
+    {
+      "query": "Beethoven Moonlight Sonata",
+      "video_id": "OWLFmBuYiTk",
+      "title": "Ludwig van Beethoven : Piano sonata no.14 in c# minor “Moonlight” op.27 no.2 - 3. Presto agitato",
+      "status": "played",
+      "client": "VISIONOS",
+      "itag": 251,
+      "elapsed_ms": 10300,
+      "error": null
+    },
+    {
+      "query": "Beethoven Moonlight Sonata",
+      "video_id": "9_C6CTs0WhI",
+      "title": "Moonlight Sonata",
+      "status": "played",
+      "client": "VISIONOS",
+      "itag": 251,
+      "elapsed_ms": 10258,
+      "error": null
+    },
+    {
+      "query": "Beethoven Moonlight Sonata",
+      "video_id": "yxtVl5L4x5E",
+      "title": "Beethoven: Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 \"Moonlight\": 3. Presto agitato",
+      "status": "played",
+      "client": "VISIONOS",
+      "itag": 251,
+      "elapsed_ms": 10224,
+      "error": null
+    },
+    {
+      "query": "Daft Punk",
+      "video_id": "khnokW3Mw24",
+      "title": "Instant Crush (feat. Julian Casablancas)",
+      "status": "played",
+      "client": "VISIONOS",
+      "itag": 251,
+      "elapsed_ms": 10338,
+      "error": null
+    },
+    {
+      "query": "Daft Punk",
+      "video_id": "rY6uRh_FS5Q",
+      "title": "The Funk Phenomena",
+      "status": "played",
+      "client": "VISIONOS",
+      "itag": 251,
+      "elapsed_ms": 10295,
+      "error": null
+    },
+    {
+      "query": "Daft Punk",
+      "video_id": "qe8Q7mjxjig",
+      "title": "Veridis Quo",
+      "status": "played",
+      "client": "VISIONOS",
+      "itag": 251,
+      "elapsed_ms": 10284,
+      "error": null
+    },
+    {
+      "query": "Daft Punk",
+      "video_id": "a7Wask21bew",
+      "title": "Derezzed (From \"TRON: Legacy\"/Score)",
+      "status": "played",
+      "client": "VISIONOS",
+      "itag": 251,
+      "elapsed_ms": 10253,
+      "error": null
+    },
+    {
+      "query": "Daft Punk",
+      "video_id": "4D7u5KF7SP8",
+      "title": "Get Lucky (feat. Pharrell Williams and Nile Rodgers)",
+      "status": "played",
+      "client": "VISIONOS",
+      "itag": 251,
+      "elapsed_ms": 10253,
+      "error": null
+    },
+    {
+      "query": "Kendrick Lamar",
+      "video_id": "phLb_SoPBlA",
+      "title": "Not Like Us",
+      "status": "played",
+      "client": "VISIONOS",
+      "itag": 251,
+      "elapsed_ms": 10219,
+      "error": null
+    },
+    {
+      "query": "Kendrick Lamar",
+      "video_id": "uK0y77IXm1M",
+      "title": "We Cry Together",
+      "status": "played",
+      "client": "VISIONOS",
+      "itag": 251,
+      "elapsed_ms": 10393,
+      "error": null
+    },
+    {
+      "query": "Kendrick Lamar",
+      "video_id": "cQtFTqh1mwM",
+      "title": "FEEL.",
+      "status": "played",
+      "client": "VISIONOS",
+      "itag": 251,
+      "elapsed_ms": 10256,
+      "error": null
+    },
+    {
+      "query": "Kendrick Lamar",
+      "video_id": "UXEDr2HpmpI",
+      "title": "Opposites Attract (Tomorrow W/O Her) (feat. Javonte)",
+      "status": "played",
+      "client": "VISIONOS",
+      "itag": 251,
+      "elapsed_ms": 10251,
+      "error": null
+    },
+    {
+      "query": "Kendrick Lamar",
+      "video_id": "ov4WobPqoSA",
+      "title": "HUMBLE.",
+      "status": "played",
+      "client": "VISIONOS",
+      "itag": 251,
+      "elapsed_ms": 10228,
+      "error": null
+    },
+    {
+      "query": "Anoushka Shankar",
+      "video_id": "zXHUXh6_TSI",
+      "title": "Flight feat. Manu Delago (Live) (feat. Manu Delago)",
+      "status": "played",
+      "client": "VISIONOS",
+      "itag": 251,
+      "elapsed_ms": 10309,
+      "error": null
+    },
+    {
+      "query": "Anoushka Shankar",
+      "video_id": "DQ2NPBLcohU",
+      "title": "We Burn so Brightly (feat. Alam Khan & Sarathy Korwar)",
+      "status": "played",
+      "client": "VISIONOS",
+      "itag": 251,
+      "elapsed_ms": 10229,
+      "error": null
+    },
+    {
+      "query": "Anoushka Shankar",
+      "video_id": "eIYNKmnG3b8",
+      "title": "Bright Eyes (Radio Edit) (feat. Alev Lenz)",
+      "status": "played",
+      "client": "VISIONOS",
+      "itag": 251,
+      "elapsed_ms": 10207,
+      "error": null
+    },
+    {
+      "query": "Anoushka Shankar",
+      "video_id": "jhGi-6S_fws",
+      "title": "Beloved",
+      "status": "played",
+      "client": "VISIONOS",
+      "itag": 251,
+      "elapsed_ms": 10277,
+      "error": null
+    },
+    {
+      "query": "Anoushka Shankar",
+      "video_id": "sYeAm37bfDs",
+      "title": "Red Sun",
+      "status": "played",
+      "client": "VISIONOS",
+      "itag": 251,
+      "elapsed_ms": 10240,
+      "error": null
+    },
+    {
+      "query": "Radiohead",
+      "video_id": "ZVgHPSyEIqk",
+      "title": "Let Down",
+      "status": "played",
+      "client": "VISIONOS",
+      "itag": 251,
+      "elapsed_ms": 10240,
+      "error": null
+    },
+    {
+      "query": "Radiohead",
+      "video_id": "NHDOk7lA53w",
+      "title": "Ful Stop",
+      "status": "played",
+      "client": "VISIONOS",
+      "itag": 251,
+      "elapsed_ms": 10269,
+      "error": null
+    },
+    {
+      "query": "Radiohead",
+      "video_id": "abmP_msJe6M",
+      "title": "Let Down (Cover)",
+      "status": "played",
+      "client": "VISIONOS",
+      "itag": 251,
+      "elapsed_ms": 10413,
+      "error": null
+    },
+    {
+      "query": "Radiohead",
+      "video_id": "9RfVp-GhKfs",
+      "title": "Creep",
+      "status": "played",
+      "client": "VISIONOS",
+      "itag": 251,
+      "elapsed_ms": 10251,
+      "error": null
+    },
+    {
+      "query": "Radiohead",
+      "video_id": "6gDhsUWCHrg",
+      "title": "Fake Plastic Trees",
+      "status": "played",
+      "client": "VISIONOS",
+      "itag": 251,
+      "elapsed_ms": 10399,
+      "error": null
+    },
+    {
+      "query": "SPB hits",
+      "video_id": "efwk_hOqVeA",
+      "title": "Kaadhal Rojave",
+      "status": "played",
+      "client": "VISIONOS",
+      "itag": 251,
+      "elapsed_ms": 10170,
+      "error": null
+    },
+    {
+      "query": "SPB hits",
+      "video_id": "SbKaWenqyow",
+      "title": "Mannil Indha",
+      "status": "played",
+      "client": "VISIONOS",
+      "itag": 251,
+      "elapsed_ms": 10220,
+      "error": null
+    },
+    {
+      "query": "SPB hits",
+      "video_id": "PbaVG3iwXQ4",
+      "title": "Saami Kitta Solli",
+      "status": "played",
+      "client": "VISIONOS",
+      "itag": 251,
+      "elapsed_ms": 10485,
+      "error": null
+    },
+    {
+      "query": "SPB hits",
+      "video_id": "xAHRh6-OOrs",
+      "title": "Malare",
+      "status": "played",
+      "client": "VISIONOS",
+      "itag": 251,
+      "elapsed_ms": 10307,
+      "error": null
+    },
+    {
+      "query": "SPB hits",
+      "video_id": "sfq_MGJauwQ",
+      "title": "Swasamae",
+      "status": "played",
+      "client": "VISIONOS",
+      "itag": 251,
+      "elapsed_ms": 10286,
+      "error": null
+    }
+  ]
+}
