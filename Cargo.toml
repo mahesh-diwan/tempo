@@ -1,0 +1,32 @@
+[workspace]
+resolver = "2"
+members = [
+    "crates/model",
+    "crates/youtube",
+    "crates/player",
+    "crates/core",
+    "crates/platform",
+    "crates/ui",
+    "apps/tempo",
+    "apps/spike",
+]
+
+[workspace.package]
+version = "0.1.0"
+edition = "2021"
+license = "GPL-3.0-or-later"
+repository = "https://github.com/mahesh-diwan/tempo"
+
+[workspace.dependencies]
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+tokio = { version = "1", features = ["rt-multi-thread", "macros", "sync", "time"] }
+tracing = "0.1"
+thiserror = "2"
+anyhow = "1"
+tempfile = "3"
+
+[profile.release]
+lto = "thin"
+codegen-units = 1
+strip = "symbols"
